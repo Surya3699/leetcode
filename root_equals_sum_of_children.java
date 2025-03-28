@@ -1,4 +1,4 @@
-# 2 TreeNode check if sum of left and right node is equal to the root node ( 3 node tree)
+// 2 TreeNode check if sum of left and right node is equal to the root node ( 3 node tree)
    
 public class TreeNode {
   int val;
